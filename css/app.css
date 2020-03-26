@@ -96,14 +96,3 @@ header {
   color: var(--dark);
 }
 
-/* HEADER */
-.Align {
-   box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    width: 100px;
-    height: 100px;
-    border: 200px ;
-    background: ;
-    margin: 10px;
-}
