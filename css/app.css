@@ -95,3 +95,7 @@ header {
 .sub-nav a:hover {
   color: var(--dark);
 }
+/* Movies alignment */
+.Align {
+width: 20px;
+}
