@@ -96,7 +96,15 @@ header {
   color: var(--dark);
 }
 
-/. Movies margin
+/* HEADER */
 .Align {
-  margin: 20px;
+   box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 200px ;
+    background: ;
+    margin: 10px;
+};
 }
