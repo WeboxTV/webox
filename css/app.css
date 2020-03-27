@@ -95,8 +95,4 @@ header {
 .sub-nav a:hover {
   color: var(--dark);
 }
-/* Responsive adjustable image size according to device*/
-.responsive {
-  width: 100%;
-  height: 4px;
-}
+
