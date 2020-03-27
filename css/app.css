@@ -98,5 +98,5 @@ header {
 /* Responsive adjustable image size according to device*/
 .responsive {
   width: 100%;
-  height: auto;
+  height: 40px;
 }
