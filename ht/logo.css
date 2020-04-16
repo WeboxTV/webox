@@ -5,7 +5,7 @@
   display: block;
   margin: 50px auto 0;
   min-width: 122px;
-  background-image: url(https://i.imgur.com/cEqsbxf.png);
+  background-image: url(https://hungamatv.ga/logo/HungamaTV.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 125px;
@@ -17,7 +17,7 @@
   only screen and (min-resolution: 125dpi),
   only screen and (min-resolution: 1.3dppx) {
   .module.links_footer .logo {
-    background-image: url(https://i.imgur.com/cEqsbxf.png);
+    background-image: url(https://hungamatv.ga/logo/HungamaTV.png);
   }
 }
 .module.links_footer .footer-menus {
@@ -35,7 +35,7 @@
   font-weight: 600;
 }
 .module.links_footer.dark .logo {
-  background-image: url(https://i.imgur.com/cEqsbxf.png);
+  background-image: url(https://hungamatv.ga/logo/HungamaTV.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -45,7 +45,7 @@
   only screen and (min-resolution: 125dpi),
   only screen and (min-resolution: 1.3dppx) {
   .module.links_footer.dark .logo {
-    background-image: url(https://i.imgur.com/cEqsbxf.png);
+    background-image: url(https://hungamatv.ga/logo/HungamaTV.png);
   }
 }
 .module.links_footer.dark .menu-primary a {
@@ -53,7 +53,7 @@
 }
 .module.links_footer.dark .menu-social .social-icon {
   background-repeat: no-repeat;
-  background-image: url(https://static-mh.content.disney.io/matterhorn/assets/utility/social/social_footer_light_icon_sprite-82d1510c5c48.png);
+  background-image: url(https://hungamatv.ga/logo/social_icons.png);
   background-size: 500% 100%;
   width: 27px;
   height: 27px;
@@ -65,7 +65,7 @@
   only screen and (min-resolution: 125dpi),
   only screen and (min-resolution: 1.3dppx) {
   .module.links_footer.dark .menu-social .social-icon {
-    background-image: url(https://static-mh.content.disney.io/matterhorn/assets/utility/social/social_footer_light_icon_sprite@2x-9da79a705722.png);
+    background-image: url(https://hungamatv.ga/logo/social_icons_2x.png);
   }
 }
 .module.links_footer.dark .menu-social .social-icon.twitter {
@@ -114,7 +114,7 @@
   only screen and (min-resolution: 125dpi),
   only screen and (min-resolution: 1.3dppx) {
   .module.links_footer .menu-social .social-icon {
-    background-image: url(https://static-mh.content.disney.io/matterhorn/assets/utility/social/social_footer_dark_icon_sprite@2x-35ca036498cb.png);
+    background-image: url(https://hungamatv.ga/logo/social_dark_icons.png);
   }
 }
 .module.links_footer .menu-social .social-icon.twitter {
